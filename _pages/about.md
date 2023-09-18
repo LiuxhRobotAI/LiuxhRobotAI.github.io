@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Liu's Homepage and is hosted on [GitHub pages](https://pages.github.com). If you are interested in my projects, please find them on my [GitHub](https://github.com/L53317). You can find the details about my work in [Google Scholar](https://scholar.google.com/citations?hl=en&user=btqfRYQAAAAJ&view_op=list_works&gmla=AJsN-F7qPa7Elgj3Mef3Ix6I_7HbhNE0hBinHHDc8IStZg5MJ6ZrMOmbt8osdoLSHRn-FgC4zOIkX8mgrQ-RBReHn8iG5hV0d-pfa51tpR9MpioFFWb5A2A). I will also update my notes about the most latest discoveries in my [Blog](https://l53317.github.io/year-archive/).
+This is Liu's Homepage and is hosted on [GitHub pages](https://pages.github.com). If you are interested in my projects, please find them on my [GitHub](https://github.com/L53317). You can find the details about my work in [Google Scholar](https://scholar.google.com/citations?hl=en&user=btqfRYQAAAAJ). I will also update my notes about the most latest discoveries in my [Blog](https://l53317.github.io/year-archive/).
 
 A brief introduction about Liu
 ======
