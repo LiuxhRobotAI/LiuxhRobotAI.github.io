@@ -16,9 +16,9 @@ I am a PhD student at the University of Groningen(RUG), the Netherlands. My rese
 
 Education
 ======
+
 University of Groningen
 ------
-
 **PhD student, 2022.05  -  current**
 
 1. Robot localization and multi-sensor fusion
