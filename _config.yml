@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Wellcome to my homepage!"
 title_separator          : "-"
-name                     : &name "Xinghua Liu"
+name                     : &name "X. Liu"
 description              : &description "personal description"
 url                      : https://L53317.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "X. liu"
+  name             : "Xinghua liu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student at RUG"
   location         : "Location"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
