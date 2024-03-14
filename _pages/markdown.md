@@ -218,3 +218,7 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 ### Variable Tag
 
 This allows you to denote <var>variables</var>.
+
+# Adiction about github `profile`
+### Use of `@mention` and `emjsj`
+One can fill `@L53317` (@username) in `Company` textbox to see intersting things.
