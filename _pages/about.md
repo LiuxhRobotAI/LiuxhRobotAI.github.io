@@ -23,7 +23,7 @@ University of Groningen
 
 1. Robot localization and multi-sensor fusion
 2. Learning-based control and theories
-3. Multi-robot collaboration
+3. Robot learning
 
 Getting started
 ======
