@@ -39,8 +39,11 @@ List of publications
 
 Jaurnal paper
 ------
+
 Conference paper
 ------
+
 Book, tutorial and others
 ------
+
 Please find them on my [Research](https://l53317.github.io/publications/).
