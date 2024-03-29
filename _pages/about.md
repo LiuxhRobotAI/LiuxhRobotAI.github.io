@@ -16,7 +16,7 @@ You can find the details about my work in [Google Scholar](https://scholar.googl
 
 I will also update my notes about the most latest discoveries in my [Blog](https://l53317.github.io/year-archive/).
 
-A brief introduction about Liu
+About Liu
 ======
 I am a PhD student at the University of Groningen (RUG), the Netherlands.
 
