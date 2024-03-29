@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Liu's Homepage hosted on [GitHub pages](https://pages.github.com).
+This is Liu's Homepage hosted on [GitHub pages](https://l53317.github.io/).
 
 If you are interested in my projects, please find them on my [GitHub](https://github.com/L53317).
 
