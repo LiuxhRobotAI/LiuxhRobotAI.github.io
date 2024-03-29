@@ -22,9 +22,9 @@ I am a PhD student at the University of Groningen (RUG), the Netherlands.
 
 My research interests include Robotics, AI technologies, Physics, Optimization and Learning-based Control.
 
+
 Education
 ======
-
 University of Groningen
 ------
 **PhD student, 2022.05  -  current**
@@ -33,15 +33,14 @@ University of Groningen
 2. Robotics and robot learning
 3. Learning-based control and their theories
 
+
 List of publications
 ======
 
 Jaurnal paper
 ------
-
 Conference paper
 ------
-
 Book, tutorial and others
 ------
 Please find them on my [Research](https://l53317.github.io/publications/).
