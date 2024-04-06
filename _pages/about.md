@@ -37,13 +37,13 @@ University of Groningen
 List of publications
 ======
 
-Jaurnal paper
+* Journal paper
 ------
 
-Conference paper
+* Conference paper
 ------
 
-Book, tutorial and others
+* Book, tutorial and others
 ------
 
 Please find them on my [Research](https://l53317.github.io/publications/).
