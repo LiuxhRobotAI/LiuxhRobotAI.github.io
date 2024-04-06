@@ -15,24 +15,32 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - 2022: Research Engineer
+  * Huawei Technologies Co., Ltd.
+  * Duties included: Software development for high efficient HPC and AI computing network, chip design and verification,  driver design for Linux operating system, performance improvement of deep neural network, open source
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Software Engineer
+  * Nanjing Fujitsu Nanda Software Technology Co., Ltd.
+  * Duties included: Software development for cloud storage, research investigation, research on cloud computing
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient in robotics programming
+  * Machine learing and robot learning
+  * Learning-based control
+  * SLAM
+  * Robot localozation and navigation
+  * Senser fusion
+  * Optimization
+* Proficient in AI framework
+  * pytorch
+  * tensorflow
+  * keras, and so on
+* Solid programming skills
+  * Python
+  * C and C++
+  * MATLAB, and so on
+* Proficient in Linux OS, ROS and Gazebo
 
 Publications
 ======
@@ -40,7 +48,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-* Book, tutorial and others
 ------
 
 
