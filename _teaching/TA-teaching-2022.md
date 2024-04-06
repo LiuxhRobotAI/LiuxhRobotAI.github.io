@@ -8,7 +8,7 @@ date: 2022
 location: "Groningen, The Netherlands"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+TA for a course `Robotics for IEM 2022` at the University of Groningen, Groningen, The Netherlands.
 
 Heading 1
 ======
