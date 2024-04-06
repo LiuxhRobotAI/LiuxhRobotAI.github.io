@@ -30,7 +30,7 @@ University of Groningen
 **PhD student, 2022.05  -  current**
 
 1. Robot localization and multi-sensor fusion
-2. Robotics and robot learning
+2. Machine learning and robot learning
 3. Learning-based control and their theories
 
 
