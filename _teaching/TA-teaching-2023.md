@@ -4,7 +4,7 @@ collection: teaching
 type: "Master course"
 permalink: /teaching/TA-teaching-2023
 venue: "University of Groningen, DTPA"
-date: 2023
+date: 2023-09-01
 location: "Groningen, The Netherlands"
 ---
 
