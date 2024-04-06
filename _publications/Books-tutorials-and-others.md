@@ -2,7 +2,7 @@
 title: "Books, tutorials, and others"
 permalink: /publication/Book-tutorial-and-others
 excerpt: 'List of books, tutorials, and others.'
-date: 2024
+date: 2024-04-06
 venue: 'The Netherlands'
 ---
 This list is about books, tutorials, and others.
