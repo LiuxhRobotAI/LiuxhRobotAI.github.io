@@ -2,7 +2,7 @@
 title: "High-order regularization in machine learning and learning-based control"
 collection: publications
 permalink: /publication/Journal-papers
-excerpt: 'A high-order regularization method and approximate solution.'
+excerpt: 'This work is about the high-order regularization in machine learning and learning-based control.'
 date: 2024-03-26
 venue: 'Benelux Meeting on Systems and Control'
 paperurl: 'https://l53317.github.io/files/High-order-regularization-in-machine-learning-and-learning-based-control.pdf'
