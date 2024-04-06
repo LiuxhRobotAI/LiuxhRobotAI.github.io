@@ -15,4 +15,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Please find the details about my work in [Google Scholar](https://scholar.google.com/citations?hl=en&user=btqfRYQAAAAJ).
+See [Google Scholar](https://scholar.google.com/citations?hl=en&user=btqfRYQAAAAJ) for more details about my work.
