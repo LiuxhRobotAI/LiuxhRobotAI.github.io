@@ -1,6 +1,20 @@
 My home page can be found [here](https://l53317.github.io/).
 
-Homepage can be modified under `_pages/about.md`. Guide can be found under `_pages/markdown.md`, with instruction of setting the website. Top navigation bar config can be changed in `_data/navigation.yml`. Blogs are stored under `_posts/`, and the other sections can be found in similar folders.
+Homepage can be modified under `_pages/about.md`. Guide can be found under `_pages/markdown.md`, with instruction of setting the website. 
+## Locations of key files/directories
+
+* Basic config options: _config.yml
+* Top navigation bar config: _data/navigation.yml
+* Single pages: _pages/
+* Collections of pages are .md or .html files in:
+  * _publications/
+  * _portfolio/
+  * _posts/
+  * _teaching/
+  * _talks/
+* Footer: _includes/footer.html
+* Static files (like PDFs): /files/
+* Profile image (can set in _config.yml): images/profile.png
 
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
