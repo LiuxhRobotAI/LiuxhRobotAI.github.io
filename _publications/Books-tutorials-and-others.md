@@ -1,6 +1,5 @@
 ---
 title: "Books, tutorials, and others"
-collection: publications
 permalink: /publication/Book-tutorial-and-others
 excerpt: 'List of books, tutorials, and others.'
 ---
