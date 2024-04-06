@@ -8,6 +8,6 @@ date: 2024-03-26
 location: "Blankenberge, Belgium"
 ---
 
-This is a slide for the 43rd Benelux Meeting on Systems and Control 2024 at Blankenberge, Belgium!
+This is a talk for the 43rd Benelux Meeting on Systems and Control 2024 at Blankenberge, Belgium!
 
 [More information here](https://www.beneluxmeeting.nl/)
