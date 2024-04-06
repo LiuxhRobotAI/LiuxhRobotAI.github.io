@@ -1,7 +1,7 @@
 My home page can be found [here](https://l53317.github.io/).
 
 Homepage can be modified under `_pages/about.md`. Guide can be found under `_pages/markdown.md`, with instruction of setting the website. 
-## Locations of key files/directories
+### Locations of key files/directories
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
