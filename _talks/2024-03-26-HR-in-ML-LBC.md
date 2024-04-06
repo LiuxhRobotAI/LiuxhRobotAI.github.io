@@ -2,7 +2,7 @@
 title: "High-order regularization in machine learning and learning-based control"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
+permalink: /talks/2024-03-26-HR-in-ML-LBC
 venue: "Floreal Blankenberge"
 date: 2024-03-26
 location: "Blankenberge, Belgium"
