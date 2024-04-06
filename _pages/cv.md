@@ -40,7 +40,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Book, tutorial and others
+* Book, tutorial and others
 ------
 
 
