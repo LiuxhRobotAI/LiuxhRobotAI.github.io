@@ -9,4 +9,4 @@ citation: ''
 ---
 This list is about books, tutorials, and others.
 
-- Your Name, You. "Paper Title Number 3." <i>Journal 1</i>, 2022, 1(3).
+- See my [Github page](https://l53317.github.io/awesome-learning/)
