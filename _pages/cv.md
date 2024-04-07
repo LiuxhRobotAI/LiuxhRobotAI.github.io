@@ -48,9 +48,9 @@ Skills
 * Proficient in robotics programming
   * Machine learning and robot learning
   * Learning-based control
-  * SLAM
   * Robot localization and navigation
-  * Senser fusion
+  * Sensor fusion
+  * SLAM
   * Optimization
 * Proficient in AI framework
   * PyTorch
