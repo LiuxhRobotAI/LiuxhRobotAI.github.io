@@ -11,36 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Robotics, University of Groningen, 2026 (expected)
-
-Work experience
-======
-* 2020 - 2022: Research Engineer
-  * Huawei Technologies Co., Ltd.
-  * Duties included: Software development for high efficient HPC and AI computing network, chip design and verification,  driver design for Linux operating system, performance improvement of deep neural network, open source
-
-* Summer 2018: Software Engineer
-  * Nanjing Fujitsu Nanda Software Technology Co., Ltd.
-  * Duties included: Software development for cloud storage, research investigation, research on cloud computing
-  
-Skills
-======
-* Proficient in robotics programming
-  * Machine learing and robot learning
-  * Learning-based control
-  * SLAM
-  * Robot localozation and navigation
-  * Senser fusion
-  * Optimization
-* Proficient in AI framework
-  * pytorch
-  * tensorflow
-  * keras, and so on
-* Solid programming skills
-  * Python
-  * C and C++
-  * MATLAB, and so on
-* Proficient in Linux OS, ROS and Gazebo
+* Ph.D. in Robotics, University of Groningen, 2026 (expected)
 
 Publications
 ======
@@ -49,7 +20,6 @@ Publications
   {% endfor %}</ul>
 
 ------
-
 
 Talks
 ======
@@ -62,7 +32,38 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Work experience
+======
+* 2020 - 2022: Research Engineer
+  * Huawei Technologies Co., Ltd.
+  * Duties include: Software development for highly efficient HPC and AI computing network, chip design and verification,  driver design for Linux operating system, performance improvement of deep neural network, open source
+
+* Summer 2018: Software Engineer
+  * Nanjing Fujitsu Nanda Software Technology Co., Ltd.
+  * Duties included: Software development for cloud storage, research investigation, research on cloud computing
   
+Skills
+======
+* Proficient in robotics programming
+  * Machine learning and robot learning
+  * Learning-based control
+  * SLAM
+  * Robot localization and navigation
+  * Senser fusion
+  * Optimization
+* Proficient in AI framework
+  * PyTorch
+  * TensorFlow
+  * keras, and so on
+* Solid programming skills
+  * Python
+  * C and C++
+  * MATLAB, and so on
+* Proficient in Linux OS, ROS, Gazebo, and so on
+
+<!--
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different Slack teams
+-->
