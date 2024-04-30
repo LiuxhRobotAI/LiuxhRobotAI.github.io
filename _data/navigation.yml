@@ -18,6 +18,7 @@ main:
   - title: "Blog"
     url: /blog/
     # url: /year-archive/
-    
+    # See also '/_pages/year-archive.md' and modify.
+
   # - title: "Guide"
   #   url: /markdown/
