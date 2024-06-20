@@ -14,7 +14,7 @@ If you are interested in my projects, please find them on my [GitHub](https://gi
 
 You can find the details about my work in [Google Scholar](https://scholar.google.com/citations?hl=en&user=btqfRYQAAAAJ).
 
-I will also update my notes about the most latest discoveries in my [Blog](https://l53317.github.io/year-archive/).
+I will also update my notes about the most latest discoveries in my [Blog](https://l53317.github.io/blog/).
 
 About Liu
 ======
