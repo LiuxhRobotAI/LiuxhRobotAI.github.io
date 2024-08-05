@@ -1,4 +1,14 @@
-# Marginalization in optimization problems
+---
+title: 'Marginalization in optimization problems'
+date: 2024-08-05
+permalink: /posts/2024/08/marginalization/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
+
 A general optimization problem can be described as
 
 $$ \min_{x}{||y- f(x)||^2_W} $$
