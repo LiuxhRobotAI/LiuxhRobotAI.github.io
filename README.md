@@ -1,4 +1,4 @@
-My home page can be found [here](https://l53317.github.io/).
+My home page can be found [here](https://LiuxhRobotAI.github.io/).
 
 Homepage can be modified under `_pages/about.md`. Guide can be found under `_pages/markdown.md`, with instruction of setting the website. 
 ### Locations of key files/directories
