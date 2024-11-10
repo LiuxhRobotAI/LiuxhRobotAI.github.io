@@ -11,9 +11,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "X. Liu"
 description              : &description "personal description"
-url                      : https://L53317.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://LiuxhRobotAI.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "L53317/L53317.github.io"
+repository               : "LiuxhRobotAI/LiuxhRobotAI.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -97,7 +97,7 @@ author:
   facebook         :
   foursquare       :
   # github           : "academicpages"
-  github           : "L53317"
+  github           : "LiuxhRobotAI"
   google_plus      :
   keybase          :
   instagram        :
