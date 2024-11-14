@@ -10,6 +10,6 @@ citation: 'Xinghua, Liu and Ming, Cao. "A high-order regularization method and a
 ---
 This work is about the high-order regularization method and its application in ill-conditioned inverse problems in robot localization.
 
-[Download paper here](https://l53317.github.io/files/A-high-order-regularization-method-and-approximate-solution.pdf)
+[Download paper here](https://LiuxhRobotAI.github.io/files/A-high-order-regularization-method-and-approximate-solution.pdf)
 
 Recommended citation: Xinghua, Liu and Ming, Cao. "A high-order regularization method and approximate solution." <i>The 42nd Benelux Meeting on Systems and Control </i>, 2023, p. 198.
