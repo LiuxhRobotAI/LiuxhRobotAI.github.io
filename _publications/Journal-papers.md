@@ -10,6 +10,6 @@ citation: 'Xinghua, Liu and Ming, Cao. "High-order regularization in machine lea
 ---
 This work is about the high-order regularization in machine learning and learning-based control.
 
-[Download paper here](https://l53317.github.io/files/High-order-regularization-in-machine-learning-and-learning-based-control.pdf)
+[Download paper here](https://LiuxhRobotAI.github.io/files/High-order-regularization-in-machine-learning-and-learning-based-control.pdf)
 
 Recommended citation: Xinghua, Liu and Ming, Cao. "High-order regularization in machine learning and learning-based control." <i>The 43rd Benelux Meeting on Systems and Control</i>, 2024, p. 80.
