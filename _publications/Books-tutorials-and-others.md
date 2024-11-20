@@ -7,4 +7,4 @@ venue: 'See in items'
 ---
 This list is about books, tutorials, and others.
 
-- See my [Github page](https://l53317.github.io/awesome-learning/)
+- See my [Github page](https://LiuxhRobotAI.github.io/awesome-learning/)
