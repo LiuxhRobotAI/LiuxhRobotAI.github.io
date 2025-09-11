@@ -20,7 +20,7 @@ About Liu
 ======
 I am a PhD student at the University of Groningen (RUG), the Netherlands.
 
-My research interests include Robotics, AI technologies, Physics, Information fusion, Optimization and Learning-based Control.
+My research interests include Robotics, AI technologies, Physics, Information Fusion, Optimization and Learning-based Control.
 
 
 Education
