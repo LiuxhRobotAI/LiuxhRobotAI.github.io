@@ -81,7 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Xinghua liu"
-  avatar           : "profile.png"
+  #avatar           : "profile.png"
+  avatar           : "photo-420-560-Xinghua Liu.jpg"
   bio              : "PhD student at RUG"
   location         : "Location"
   employer         :
