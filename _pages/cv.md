@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D. in Robotics, University of Groningen, 2026 (expected)
+* Research interests
+  * Robotics, AI, Applied Physics, Multi-sensor Fusion, Optimization, Learning-based Control
 
 Publications
 ======
