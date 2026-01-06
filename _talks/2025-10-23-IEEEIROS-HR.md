@@ -3,7 +3,7 @@ title: "High-order regularization dealing with ill-conditioned robot localizatio
 collection: talks
 type: "Talk"
 permalink: /talks/2025-10-23-IEEEIROS-HR
-venue: "Floreal Blankenberge"
+venue: "Hangzhou International Expo Center (HIEC)"
 date: 2025-10-23
 location: "Hangzhou, China"
 ---
