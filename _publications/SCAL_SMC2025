@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Conference-papers
 excerpt: 'This work proposed an FGO framework for simultaneously calibration and localization in robotics.'
 date: 2025-08-05
-venue: 'Vienna, Austria'
+venue: '2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11342538'
 citation: 'X. Liu and M. Cao, "Robust simultaneous UWB-anchor calibration and robot localization for emergency situations," 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Vienna, Austria, 2025, pp. 4691-4697, doi: 10.1109/SMC58881.2025.11342538.'
 ---
