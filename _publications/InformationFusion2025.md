@@ -10,4 +10,4 @@ citation: 'Xinghua, Liu and Ming, Cao. "An information fusion method for robotic
 ---
 This work is about home service robots, which use an information fusion method for searching and monitoring.
 
-Recommended citation: Xinghua, Liu and Ming, Cao. "An information fusion method for robotic searching and monitoring." <i>The 43th Benelux Meeting on Systems and Control</i>, 2025, p. 79.
+Recommended citation: Xinghua, Liu and Ming, Cao. "An information fusion method for robotic searching and monitoring." <i>The 44th Benelux Meeting on Systems and Control</i>, 2025, p. 79.
