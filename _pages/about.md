@@ -12,7 +12,7 @@ This is Liu's Homepage hosted on [GitHub pages](https://LiuxhRobotAI.github.io/)
 
 If you are interested in my projects, please find them on my [GitHub](https://github.com/LiuxhRobotAI).
 
-You can find the details about my work in [Google Scholar](https://scholar.google.com/citations?user=btqfRYQAAAAJ&hl).
+You can find the details about my work in [Google Scholar](https://scholar.google.com/citations?user=SgdPnVkAAAAJ).
 
 I will also update my notes about the most latest discoveries in my [Blog](https://LiuxhRobotAI.github.io/blog/).
 
