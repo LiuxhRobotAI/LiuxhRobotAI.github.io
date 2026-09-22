@@ -21,7 +21,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-* Latest work on [Google Scholar](https://scholar.google.com/citations?user=btqfRYQAAAAJ&hl)
+* Latest work on [Google Scholar](https://scholar.google.com/citations?user=SgdPnVkAAAAJ&hl)
 ------
 
 Talks
