@@ -1,7 +1,7 @@
 ---
 title: "An information fusion method for robotic searching and monitoring"
 collection: publications
-permalink: /publication/Journal-papers
+permalink: /publication/InformationFusion2025
 excerpt: 'This work is about home service robots, which use an information fusion method for searching and monitoring.'
 date: 2025-03-19
 venue: 'Benelux Meeting on Systems and Control'
