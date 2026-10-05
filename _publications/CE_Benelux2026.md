@@ -1,7 +1,7 @@
 ---
 title: "Contraction Estimator: a Global Optimal Solution for Robotics Optimization Problems"
 collection: publications
-permalink: /publication/Journal-papers
+permalink: /publication/CE_Benelux2026
 excerpt: 'In this work, we propose a global optimimal framework for optimization problems (convex, non-convex, non-differentiable and discrete) on complete Banach spaces.'
 date: 2026-03-25
 venue: 'Benelux Meeting on Systems and Control'
