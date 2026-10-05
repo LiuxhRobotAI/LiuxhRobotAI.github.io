@@ -1,7 +1,7 @@
 ---
 title: "Online Feedback Optimization Using Contraction Estimator for Multi-robot Relative Pose Estimation and Control"
 collection: publications
-permalink: /publication/Journal-papers
+permalink: /publication/CE_OFO_MRPEC
 excerpt: 'This work proposed an online feedback contraction-based framework for relative pose estimation and control in robotics.'
 date: 2026-07-02
 venue: '22nd Polish Control Conference (PCC)'
