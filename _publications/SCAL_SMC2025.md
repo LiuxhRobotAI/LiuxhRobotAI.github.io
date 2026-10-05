@@ -1,7 +1,7 @@
 ---
 title: "Robust simultaneous UWB-anchor calibration and robot localization for emergency situations"
 collection: publications
-permalink: /publication/Journal-papers
+permalink: /publication/SCAL_SMC2025
 excerpt: 'This work proposed an FGO framework for simultaneously calibration and localization in robotics.'
 date: 2025-08-05
 venue: 'IEEE International Conference on Systems, Man, and Cybernetics (SMC)'
